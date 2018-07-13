@@ -1,9 +1,14 @@
-# Comp 180 Tutorials
-These tutorials are designed for students in the Comp 180 - Computing and Data Analysis for the Sciences course at Loyola University Chicago. They are divided into 3 languages: [Python]( https://www.python.org/), [R]( https://www.r-project.org/), and [Octave]( https://www.gnu.org/software/octave/). The tutorials should be as identical as possible across all languages except for the code and explanation of the code. Explanations and comments are written for an audience with little or no coding experience. 
+# How to Get Jupyter Notebooks
+1. Go to the Anaconda download page
 
-You need to [install Jupyter Notebooks](https://docs.google.com/document/d/1SHHqw0aDHrUk46fSaItzUg7zm14Fr_xHka7K-Tc6KCA/edit?usp=sharing) to run and edit these .ipynb files.
+2. Download correct version for your OS (Windows/macOS)
+    * This usually takes a while
+    
+3. Follow the installation prompts until Anaconda is installed successfully
 
-Jupyter Notebooks comes with Python. The following links show to use R and Octave on Jupyter Notebooks.
+4. From the Anaconda Navigator, launch Jupyter Notebook
 
-* [How to Use R on Jupyter Notebooks]( https://docs.google.com/document/d/1Fe_YoKUkTXbdsPHmpgcb3Ax7f8ZQdK2zajXumWKF470/edit?usp=sharing)
-* [How to Use Octave on Jupyter Notebooks]( https://docs.google.com/document/d/1Ket4YPLLJNvmAUvZ395vpjA-vTmf-PMEhnTKJ30jNPw/edit?usp=sharing)
+5. In the top right of the Jupyter Notebooks webpage, click new and then select the language you want
+    * If you only see python 3, you will need to follow the tutorials on how to get R or Octave
+    
+6. In Jupyter notebooks, you can run cells using ctrl+enter or shift+enter
