@@ -1,2 +1,9 @@
 # Comp 180 Tutorials
-These tutorials are designed for students in the Comp 180- Computing and Data Analysis for the Sciences course at Loyola University-Chicago. They are divided into 3 languages: Python, R, and Octave. The tutorials should be as identical as possible across all languages except for the code and explanation of the code. Explanations and comments are written for an audience with little or no coding experience. These .ipynb files can be run and edited in [Jupyter Notebooks](https://docs.google.com/document/d/1hwkTspAyUvSmt1RNpX8ijrmScNQPSSFceT-rmm3yRU8/edit?usp=sharing). All the original assignments and tutorials can be found [here](https://docs.google.com/document/d/11Wo9Z1yR88HIy4Vct0-AydUL2DutCEyqBYbSIjWfBEQ/edit). Assignments and their answer keys are stored in Google Drive with restricted access so students cannot receive assignments early or view the answer keys.
+These tutorials are designed for students in the Comp 180 - Computing and Data Analysis for the Sciences course at Loyola University Chicago. They are divided into 3 languages: [Python]( https://www.python.org/), [R]( https://www.r-project.org/), and [Octave]( https://www.gnu.org/software/octave/). The tutorials should be as identical as possible across all languages except for the code and explanation of the code. Explanations and comments are written for an audience with little or no coding experience. 
+
+You need to [install Jupyter Notebooks]( https://github.com/comp180/Tutorials/blob/master/How%20to%20Get%20Jupyter%20Notebooks.md) to run and edit these .ipynb files.
+
+The Jupyter Notebook comes with Python. The following links show how to use R and Octave on Jupyter Notebooks.
+
+* [How to Use R on Jupyter Notebooks]( https://github.com/comp180/Tutorials/blob/master/How%20to%20Use%20R%20on%20Jupyter%20Notebooks.md)
+* [How to Use Octave on Jupyter Notebooks]( https://docs.google.com/document/d/1Ket4YPLLJNvmAUvZ395vpjA-vTmf-PMEhnTKJ30jNPw/edit?usp=sharing)
